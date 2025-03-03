@@ -15,3 +15,7 @@ Easiest way to install the script is to go to the file page here on Github, clic
 You can send them to people, use them on as many devices as you want, you can even print them!
 
 ![image](https://github.com/user-attachments/assets/6b47c919-5405-4c36-9837-f7d61d322543)
+
+I have found it works best in single page view but play around with it, create forks/change the code, whatever!
+
+![image](https://github.com/user-attachments/assets/4163f853-ad85-4a54-8f6a-f969bcf27b17)
