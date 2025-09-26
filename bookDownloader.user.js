@@ -4,7 +4,7 @@
 // @version      1.5.1
 // @description  Save book images to localStorage as you read/scroll and export as a PDF with pages in order.
 // @author       TurbulentGoat
-// @match        https://read.amazon.com*
+// @match        https://read.amazon.co.uk*
 // @grant        GM_addStyle
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
 // ==/UserScript==
